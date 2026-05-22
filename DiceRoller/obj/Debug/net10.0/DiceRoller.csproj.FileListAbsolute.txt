@@ -9,3 +9,4 @@
 /home/gary/Documents/c#/diceroller/DiceRoller/obj/Debug/net10.0/refint/DiceRoller.dll
 /home/gary/Documents/c#/diceroller/DiceRoller/obj/Debug/net10.0/DiceRoller.pdb
 /home/gary/Documents/c#/diceroller/DiceRoller/obj/Debug/net10.0/ref/DiceRoller.dll
+/home/gary/Documents/c#/diceroller/DiceRoller/obj/Debug/net10.0/DiceRoller.sourcelink.json
