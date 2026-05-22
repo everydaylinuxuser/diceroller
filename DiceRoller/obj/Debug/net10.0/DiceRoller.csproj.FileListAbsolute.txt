@@ -1,0 +1,11 @@
+/home/gary/Documents/c#/diceroller/DiceRoller/bin/Debug/net10.0/DiceRoller.deps.json
+/home/gary/Documents/c#/diceroller/DiceRoller/bin/Debug/net10.0/DiceRoller.dll
+/home/gary/Documents/c#/diceroller/DiceRoller/bin/Debug/net10.0/DiceRoller.pdb
+/home/gary/Documents/c#/diceroller/DiceRoller/obj/Debug/net10.0/DiceRoller.GeneratedMSBuildEditorConfig.editorconfig
+/home/gary/Documents/c#/diceroller/DiceRoller/obj/Debug/net10.0/DiceRoller.AssemblyInfoInputs.cache
+/home/gary/Documents/c#/diceroller/DiceRoller/obj/Debug/net10.0/DiceRoller.AssemblyInfo.cs
+/home/gary/Documents/c#/diceroller/DiceRoller/obj/Debug/net10.0/DiceRoller.csproj.CoreCompileInputs.cache
+/home/gary/Documents/c#/diceroller/DiceRoller/obj/Debug/net10.0/DiceRoller.dll
+/home/gary/Documents/c#/diceroller/DiceRoller/obj/Debug/net10.0/refint/DiceRoller.dll
+/home/gary/Documents/c#/diceroller/DiceRoller/obj/Debug/net10.0/DiceRoller.pdb
+/home/gary/Documents/c#/diceroller/DiceRoller/obj/Debug/net10.0/ref/DiceRoller.dll
