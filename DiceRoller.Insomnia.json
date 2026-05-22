@@ -1,0 +1,46 @@
+{
+  "_type": "export",
+  "__export_format": 4,
+  "__export_date": "2026-05-22T00:00:00.000Z",
+  "__export_source": "insomnia.desktop.app:v2026.4.0",
+  "resources": [
+    {
+      "_id": "wrk_diceroller",
+      "_type": "workspace",
+      "name": "DiceRoller API",
+      "description": "Workspace for testing the DiceRoller API",
+      "scope": "design"
+    },
+    {
+      "_id": "env_base",
+      "_type": "environment",
+      "parentId": "wrk_diceroller",
+      "name": "Base Environment",
+      "data": {
+        "base_url": "https://localhost:5001"
+      }
+    },
+    {
+      "_id": "req_roll_single",
+      "_type": "request",
+      "parentId": "wrk_diceroller",
+      "name": "Roll Single Die",
+      "method": "GET",
+      "url": "{{ base_url }}/api/dice/roll/6",
+      "body": {},
+      "parameters": [],
+      "headers": []
+    },
+    {
+      "_id": "req_roll_multiple",
+      "_type": "request",
+      "parentId": "wrk_diceroller",
+      "name": "Roll Multiple Dice",
+      "method": "GET",
+      "url": "{{ base_url }}/api/dice/roll/6/3",
+      "body": {},
+      "parameters": [],
+      "headers": []
+    }
+  ]
+}
