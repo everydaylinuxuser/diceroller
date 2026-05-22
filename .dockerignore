@@ -1,0 +1,14 @@
+bin/
+obj/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.vs/
+.vscode/
+*.DS_Store
+Tests/
+*.nupkg
+**/project.assets.json
+**/*.pdb
+**/*.csproj.user

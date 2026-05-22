@@ -61,3 +61,27 @@ When running in development, visit `https://localhost:5001/swagger` to explore t
 ## Library API
 
 - `DiceRoller.Dice.Roll(int sides)` — returns an `int` between `1` and `sides` (inclusive). Throws `ArgumentOutOfRangeException` if `sides < 2`.
+
+## Docker
+
+Build the container image from the solution root:
+
+```bash
+docker build -t diceroller-api .
+```
+
+Run the container:
+
+```bash
+docker run --rm -p 8080:80 diceroller-api
+```
+
+The API will be available at `http://localhost:8080`.
+
+Or use Docker Compose:
+
+```bash
+docker compose up --build
+```
+
+Then open `http://localhost:8080`.
